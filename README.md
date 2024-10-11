@@ -1,1 +1,1 @@
-#### COMP3104 – Developer Operations
+This project is part of the COMP3104 group assignment.
